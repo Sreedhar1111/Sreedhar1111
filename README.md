@@ -1,5 +1,5 @@
 
-Hey, guys I pretty much used the WikipediaAPI to get the top 100 searches on wikipedia and turned them into a graph that shows how many views they get. I then used matplotlib.pyplot for the graph.
+Hey, guys I pretty much used the WikipediaAPI which I set up using links which needed me to use parse URl and request URL to get the top 100 searches on wikipedia and then I turned them into a graph that shows how many views they get. I then used matplotlib.pyplot for the graph.
 
 To be honest it took me a while to figure out what I wanted to do and even longer to code it. I thought It would be a pretty good introductory "project" and I attend on making more complicated things in the future, just wanted to do something small initially to have something to build on in the future.
 
@@ -9,8 +9,9 @@ If I end up doing it I will definitly post it on here, stay tuned if I update wi
 
 links for APIs:
 Wikipedia API: https://pypi.org/project/Wikipedia-API/
-Matlibplot.pyplot API : https://matplotlib.org
-
+Matlibplot.pyplot API: https://matplotlib.org
+Parse URL API: https://docs.python.org/3/library/urllib.parse.html
+Requesr URL API: https://docs.python.org/3/library/urllib.request.html
 If you intend on replicating my graph be sure to consider that the date that I used was around the start of the 2022 Winter Olympics so a lot of the results are skewed in favor of skiers, Olympics, Countries, Etc.
 
 Atributes:
