@@ -11,7 +11,8 @@ links for APIs:
 Wikipedia API: https://pypi.org/project/Wikipedia-API/
 Matlibplot.pyplot API: https://matplotlib.org
 Parse URL API: https://docs.python.org/3/library/urllib.parse.html
-Requesr URL API: https://docs.python.org/3/library/urllib.request.html
+Request URL API: https://docs.python.org/3/library/urllib.request.html
+JSON API: https://docs.python.org/3/library/json.html
 If you intend on replicating my graph be sure to consider that the date that I used was around the start of the 2022 Winter Olympics so a lot of the results are skewed in favor of skiers, Olympics, Countries, Etc.
 
 Atributes:
